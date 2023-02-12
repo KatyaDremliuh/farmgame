@@ -46,16 +46,6 @@ h6 {
     padding-top: 60px;
 }
 
-/* .cow-background {
-    background: linear-gradient(180deg, #FFE195 0%, #FF5B5B 100%);
-    border-radius: 70px;
-    border: #FF6861;
-    width: 465px;
-    height: 465px;
-    padding: 105px;
-    margin-left: 180px;
-} */
-
 .logo {
     margin: 0;
     max-width: 145px;
@@ -80,7 +70,6 @@ h2 {
     width: 465px;
     height: 465px;
     padding: 105px;
-    /* margin-left: 180px; */
 }
 
 .introtext {
